@@ -15503,7 +15503,7 @@ textarea {
   width: 100%;
 }
 a {
-  color: #fff;
+  color: #fafafa;
 }
 a:visited {
   color: #fff3cd;
@@ -15511,7 +15511,7 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-  color: #fff;
+  color: #000;
 }
 a:focus {
   outline: thin dotted;
